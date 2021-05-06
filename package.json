@@ -10,11 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/avinashxw/ecommerce.git"
   },
-  "keywords": ["ecommerce"],
+  "keywords": [
+    "ecommerce"
+  ],
   "author": "Avinash Wadhawan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/avinashxw/ecommerce/issues"
   },
-  "homepage": "https://github.com/avinashxw/ecommerce#readme"
+  "homepage": "https://github.com/avinashxw/ecommerce#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
