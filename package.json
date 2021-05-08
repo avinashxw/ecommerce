@@ -24,7 +24,8 @@
   "homepage": "https://github.com/avinashxw/ecommerce#readme",
   "dependencies": {
     "ejs": "^3.1.6",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.12.7"
   },
   "devDependencies": {
     "chai": "^4.3.4",
